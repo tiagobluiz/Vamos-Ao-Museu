@@ -1,0 +1,35 @@
+# OS/editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Local environment
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+logs/
+
+# Build outputs
+build/
+dist/
+out/
+target/
+
+# Java/Kotlin/Gradle
+.gradle/
+*.class
+
+# JavaScript/TypeScript
+node_modules/
+.next/
+.nuxt/
+coverage/
+
+# Codex/Superpowers local brainstorming state
+.superpowers/
